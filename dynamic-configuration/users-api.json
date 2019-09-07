@@ -1,4 +1,7 @@
 {
+  "health": {
+    "status": "UP"
+  },
   "users": [
     {"id": 1, "name": "Raphael Freitas"}
   ]
